@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\watch_next\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE231805-A004-46D9-877B-4B1C335667CC}|watch_next.pyproj|C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\watch_next\\watch_next.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE231805-A004-46D9-877B-4B1C335667CC}|watch_next.pyproj|solutionrelative:watch_next.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "watch_next.py",
+              "DocumentMoniker": "C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\watch_next\\watch_next.py",
+              "RelativeDocumentMoniker": "watch_next.py",
+              "ToolTip": "C:\\Users\\Amu\\Dropbox\\AK22100003593\\3 - Data Science, Algorithms and Advanced Software Engineering\\L3T12\\watch_next\\watch_next.py",
+              "RelativeToolTip": "watch_next.py",
+              "ViewState": "AQIAACkAAAAAAAAAAAAiwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-06-25T15:35:32.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
